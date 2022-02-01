@@ -1,5 +1,5 @@
 .product-grid7 {
-  font-family: 'Roboto Slab',serif;
+  font-family: sans-serif;
   position: relative;
   z-index: 1;
 }
@@ -71,7 +71,7 @@
 
 .product-grid7 .social li a:hover {
   color: #fff;
-  background-color: #78e08f;
+  background-color: #CE1212;
 }
 
 .product-grid7 .product-new-label {
@@ -103,11 +103,11 @@
 }
 
 .product-grid7 .title a:hover {
-  color: #78e08f;
+  color: #CE1212;
 }
 
 .product-grid7 .rating {
-  color: #78e08f;
+  color: #CE1212;
   font-size: 12px;
   padding: 0;
   margin: 0 0 10px;
@@ -117,7 +117,7 @@
 .product-grid7 .price {
   color: #333;
   font-size: 20px;
-  font-family: Lora,serif;
+  font-family: sans-serif;
   font-weight: 700;
   margin-bottom: 8px;
   text-align: center;
@@ -146,7 +146,7 @@
 }
 
 .shopping-grid h3 {
-  font-family: 'Roboto';
+  font-family: sans-serif;
   font-size: 32px;
   margin-bottom: 40px;
   padding-top: 40px;
